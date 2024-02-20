@@ -14,7 +14,7 @@
     border: 0.5px solid black;
     margin: 10px;
     border-radius: 50%;
-    background-color: rgb(230, 118, 118);
+    background-color: rgb(6, 6, 6);
 
 }
 .wait{
@@ -24,7 +24,7 @@
     border: 0.5px solid black;
     margin: 10px;
     border-radius: 50%;
-    background-color: rgb(242, 242, 148);
+    background-color: rgb(2, 2, 2);
 
 }
 .go{
@@ -34,7 +34,7 @@
     border: 0.5px solid black;
     margin: 10px;
     border-radius: 50%;
-    background-color: rgb(140, 226, 140);
+    background-color: rgb(9, 10, 9);
 
 }
 .pol{
