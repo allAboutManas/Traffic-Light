@@ -1,0 +1,104 @@
+.traffic{
+     height: 300px;
+     width: 100px;
+    border: 5px solid black;
+    margin-top: 30px;
+    border-radius: 20px;
+
+
+}
+.stop{
+
+    height: 80px;
+    width: 80px;
+    border: 0.5px solid black;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(230, 118, 118);
+
+}
+.wait{
+
+    height: 80px;
+    width: 80px;
+    border: 0.5px solid black;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(242, 242, 148);
+
+}
+.go{
+
+    height: 80px;
+    width: 80px;
+    border: 0.5px solid black;
+    margin: 10px;
+    border-radius: 50%;
+    background-color: rgb(140, 226, 140);
+
+}
+.pol{
+    height: 600px;
+    width: 20px;
+    border: 3px solid black;
+    margin-left: 40px;
+
+
+}
+.Switch{
+    height: 200px;
+    width: 70px;
+   border: 7px solid black;
+   border-radius: 20px;
+
+
+}
+.stops{
+
+   height: 50px;
+   width: 50px;
+   border: 0.5px solid black;
+   margin: 10px;
+   border-radius: 50%;
+   background-color: rgb(237, 53, 53);
+
+}
+.waits{
+
+   height: 50px;
+   width: 50px;
+   border: 0.5px solid black;
+   margin: 10px;
+   border-radius: 50%;
+   background-color: rgb(236, 236, 17);
+
+
+}
+.gos{
+
+   height: 50px;
+   width: 50px;
+   border: 0.5px solid black;
+   margin-left: 10px;
+   margin-bottom: 10px;
+   border-radius: 50%;
+   background-color: rgb(5, 164, 5);
+
+
+}
+.pols{
+   height: 300px;
+   width: 20px;
+   border: 4px solid black;
+   margin-left: 30px;
+
+}
+.second{
+  position: absolute;
+  top: 425px;
+  right:100px;
+}
+.wire{
+    width: 100%;
+    border: 2px solid black;
+}
